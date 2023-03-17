@@ -16,25 +16,25 @@
   }
   
   .face {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    background-color: #ffc107;
+    width: 100px;
+    height: 100px;
+    /* border-radius: 50%; */
+    /* background-color: #ffc107; */
     margin-bottom: 20px;
   }
   
   .happy {
-    background-image: url("happy.png");
+    background-image: url("https://img.icons8.com/external-line-icons-royyan-wijaya/512/null/external-cat-hana-emojis-cat-edition-line-line-icons-royyan-wijaya-5.png");
     background-size: contain;
   }
   
   .sad {
-    background-image: url("sad.png");
+    background-image: url("https://img.icons8.com/external-line-icons-royyan-wijaya/512/null/external-cat-hana-emojis-cat-edition-line-line-icons-royyan-wijaya-11.png");
     background-size: contain;
   }
   
   .hungry {
-    background-image: url("hungry.png");
+    background-image: url("https://img.icons8.com/external-line-icons-royyan-wijaya/512/null/external-cat-hana-emojis-cat-edition-line-line-icons-royyan-wijaya-16.png");
     background-size: contain;
   }
   
